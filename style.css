@@ -1,0 +1,41 @@
+.body_background 
+{
+    background-image: url("https://www.bing.com/images/search?view=detailV2&ccid=PDlm3trg&id=A3027D042C76BF27E52E570836E5983BA0446D1B&thid=OIP.PDlm3trgAkY6pGPcbRt4SQHaEK&mediaurl=https%3a%2f%2fi.ytimg.com%2fvi%2fFW3UFJ34vtU%2fmaxresdefault.jpg&exph=720&expw=1280&q=funy&simid=608034955825910688&FORM=IRPRST&ck=26C986380B386F0E03C09F76A8E4EE39&selectedIndex=16&ajaxhist=0&ajaxserp=0");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+h2
+{
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+ }
+h3
+{
+	display: inline-block;
+}
+span
+{
+	color: black;	
+}
+a
+{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head_info
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
